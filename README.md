@@ -49,18 +49,21 @@ python3 -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 
+```
 
- # Create a .env file in gemini-backend/
+### Create a .env file in gemini-backend/
 
+```bash
  GEMINI_API_KEY=your_google_gemini_api_key
+```
 
- # run FastAPI Server
+### Run FastAPI Server
 
+```bash
  python3 -m uvicorn main:app --reload
 ```
 
+### Gemini Chat UI Preview 
 
-
-
-
+![Gemini Chat UI](image.png)
 
