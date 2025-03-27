@@ -1,10 +1,10 @@
-# Gemini Chat App 💬✨
+# Gemini Chat App 
 
 This is a simple full-stack web application that integrates **Google Gemini 2.0 Flash-001** with a React frontend and FastAPI backend. The app allows users to send natural language prompts and receive intelligent responses powered by Google's Gemini LLM.
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js
 - **Backend**: FastAPI (Python)
@@ -14,7 +14,7 @@ This is a simple full-stack web application that integrates **Google Gemini 2.0 
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Ask natural language questions via a friendly web UI
 - Real-time responses using Gemini 2.0 Flash model
@@ -24,9 +24,9 @@ This is a simple full-stack web application that integrates **Google Gemini 2.0 
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
-### 🔹 Clone the Repo
+### Clone the Repo
 
 ```bash
 git clone git@github.com:your-username/gemini-chat-app.git
